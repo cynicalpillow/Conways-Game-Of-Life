@@ -8,7 +8,6 @@ Key bindings:
 * X -- clears board
 * Spacebar -- starts/stops simulation
 * R -- rotates presets (only for glider currently)
-
 * 1 -- is default drawing
 * 2 -- Glider preset
 * 3 -- Glider gun preset
