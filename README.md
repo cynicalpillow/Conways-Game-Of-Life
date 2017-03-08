@@ -1,6 +1,6 @@
 # Conways-Game-Of-Life
 
-Conway's game of life simulation with drawing and few presets to play with
+Conway's game of life simulation with drawing and few presets to play with<br />
 By Rui Li
 <br />//////////////////////<br />
 Key bindings:
