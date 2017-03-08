@@ -2,7 +2,7 @@
 
 Conway's game of life simulation with drawing and few presets to play with
 By Rui Li
-*
+<br />//////////////////////<br />
 Key bindings:
 * E -- changes pen from erase to draw (blue is drawing, red is erasing)
 * X -- clears board
